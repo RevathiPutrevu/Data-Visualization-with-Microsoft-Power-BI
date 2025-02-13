@@ -40,5 +40,4 @@ The dataset used for the analysis is a part of the [Data Analytics Essentials](
 - Leveraged **DAX** measures and calculated columns for deeper insights
 
 ### Report Visuals
-The interactive Power BI report can be accessed via the .pbix file available in the repository. 
-
+The interactive Power BI report is available as (**MovieLens_ Revathi P_Project Report.pbix**) file in the repository.
