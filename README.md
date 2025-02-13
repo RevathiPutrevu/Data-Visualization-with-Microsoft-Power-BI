@@ -1,2 +1,3 @@
-# Data-Visualization-with-Microsoft-Power-BI
-MovieLens Case Study
+# Unlocking Insights: Data Visualization with Microsoft Power BI
+
+
